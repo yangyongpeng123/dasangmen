@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5cd3cff1e1a69c31ecc59dd2"},"use":"admin","pwd":"12345678"}
+{"_id":{"$oid":"5cd3d059e1a69c31ecc59dd4"},"use":"manage","pwd":"123456"}
